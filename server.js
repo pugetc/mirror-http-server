@@ -1,7 +1,7 @@
 'use strict';
 
 var host = '0.0.0.0';
-var port = 80;
+var port = 8080;
 
 var _ = require('lodash');
 var bunyan = require('bunyan');
